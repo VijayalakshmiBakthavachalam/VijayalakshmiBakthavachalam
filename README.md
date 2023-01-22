@@ -87,3 +87,65 @@ s
 - [Linux Episode 2](https://www.linkedin.com/posts/vijayatech_linux-fundamental-series-1-activity-6959922687263596544-xOfh/)
 - [Linux Episode 3](https://www.linkedin.com/posts/vijayatech_linux-fundamental-series-episode-03-activity-6961186348858847232-riK5/)
 
+
+## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫
+
+<P>
+I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
+
+The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
+
+The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
+
+At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
+
+</p>
+
+# Cloudnloud Community 2022 Free Programs
+
+- [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/
+
+# AWS Cloud Free 2 months Internship - Week 1
+
+- [Cloud DevOps Free 4 months UseCase RealTime Internship](https://youtu.be/V-2ME9qCGIk)
+- [Syllabus - Cloud DevOps Free 4 months UseCases Real-time Internship](https://youtu.be/8PsJG53-D6U)
+- [AWS Cloud DevOps UseCase Internship Day1 Slot1](https://youtu.be/POfrtFFNq3Y)
+- [AWS Cloud DevOps UseCase Internship Day1 Slot2](https://youtu.be/0IXpnDOR81M)
+- [AWS Cloud DevOps UseCase Internship Day1 Slot3](https://youtu.be/aHobd28K9eo)
+- [AWS Cloud DevOps UseCase Internship Day1 Slot4](https://youtu.be/O_kWJgQbh8U)
+- [AWS Cloud DevOps UseCase Internship Day2 Slot1](https://youtu.be/IWC9Pw-AKfw)
+- [AWS Cloud DevOps UseCase Internship Day2 Slot2](https://youtu.be/bxZ_7l1tuA4)
+- [AWS Cloud DevOps UseCase Internship Day2 Slot3](https://youtu.be/wcACvI70SYk)
+
+
+# AWS Cloud Free 2 months Internship - Week 2
+
+- [AWS Cloud DevOps UseCase Internship Day3 Slot1](https://youtu.be/S6jyaTq6PWo)
+- [AWS Cloud DevOps UseCase Internship Day3 Slot2](https://youtu.be/w9CrsuZ0cP8)
+- [AWS Cloud DevOps UseCase Internship Day4 Slot1](https://youtu.be/cnRzm_MlM5g)
+- [AWS Cloud DevOps UseCase Internship Day4 Slot2](https://youtu.be/VOpHbf-JPdw)
+- [AWS Cloud DevOps UseCase Internship Day4 Slot3](https://youtu.be/TfCfTI_LH9o)
+
+# AWS Cloud Free 2 months Internship - Week 3
+
+
+- [AWS Cloud DevOps Use Case InternShip Day5 Slot1](https://youtu.be/pvIgAj3XSag)
+- [AWS Cloud DevOps Use Case InternShip Day5 Slot2](https://youtu.be/zXxFQZ-xwdA)
+- [AWS Cloud DevOps UseCase Internship Day5 Slot3](https://youtu.be/WBn_xOmT4xc)
+- [AWS Cloud DevOps Internship Week 3 Day 6 Slot1](https://youtu.be/RNl-gXDrCoU)
+- [AWS Cloud DevOps Internship Week 3 Day 6 Slot2](https://youtu.be/8Q9ftmHx1aA)
+
+
+Follow us (**CloudnLoud Tech Community**) with the below links:
+
+<!-- For **any queries** use our CloudnLoud Discord **https://discord.gg/vbjRQGVhuF**      -->
+	
+Check **Posts and events sections** in our CloudnLoud LinkedIn page for **upcoming free technical sessions/events**: **https://www.linkedin.com/company/cloudnloud**
+	
+Check for **Cloud & DevOps full series** in our CloudnLoud Youtube Channel  **https://www.youtube.com/c/cloudnloud**
+	
+For all use cases refer our CloudnLoud Github **https://github.com/cloudnloud**
+     
+CloudnLoud Facebook **https://www.facebook.com/cloudnloudtech**
+	
+CloudnLoud Twitter **https://twitter.com/cloudnloud**	
