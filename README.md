@@ -62,4 +62,28 @@ s
 - [AWS Cost Allocation Tags](https://www.linkedin.com/posts/vijayatech_hey-connections-today-let-me-share-a-brief-activity-7020093635790610432-nxek)
 - [Session Manager](https://www.linkedin.com/posts/vijayatech_aws-cloud-cloudlearning-activity-7020455704847126528-GzVF/)
 - [Full Stack Observability](https://www.linkedin.com/posts/vijayatech_aws-awscommunity-cloud-activity-7020796180678799361-V1pT/)
-- [IAM SERVICE?](https://www.linkedin.com/posts/vijayatech_aws-aws-awscloud-activity-7016964843165413376-XzqZ/)
+
+# Terraform
+
+- [Terraform Idempotent](https://www.linkedin.com/posts/vijayatech_iac-terraform-cloud-activity-7012834505870761985-Jla7/)
+- [Terraform state](https://www.linkedin.com/posts/vijayatech_connections-hashicorp-terraform-activity-7011872685316091904-Hae4/)
+- [Terraform Basics](https://www.linkedin.com/posts/vijayatech_connections-hashicorp-terraform-activity-7008884998426546176-xdrb/)
+
+# SRE/DevOps
+
+- [SRE vs DevOps](https://www.linkedin.com/posts/vijayatech_cloudnloud-sre-devops-activity-7012466812760059904-1vau/)
+
+# Kubernetes
+
+- [Kubernetes Secrets](https://www.linkedin.com/posts/vijayatech_kuberneteslearningday3-kubernetescluster-activity-7004327538772647936-FkLI/)
+- [Kubernetes Environment Variables](https://www.linkedin.com/posts/vijayatech_connections-hashicorp-terraform-activity-7011872685316091904-Hae4/)
+- [Kubernetes ConfigMaps](https://www.linkedin.com/posts/vijayatech_kuberneteslearningday2-kubernetescluster-activity-7003960461482221568-64o3/)
+- [Kubernetes Cluster Manual Setup](https://www.linkedin.com/posts/vijayatech_kubernetes-cluster-in-simple-steps-activity-6998956491953123328--kWW/)
+
+
+# Linux
+
+- [Linux Episode 1](https://www.linkedin.com/posts/vijayatech_linuxbytesinbits-devops-sre-activity-6952975171301371905-Axn5/)
+- [Linux Episode 2](https://www.linkedin.com/posts/vijayatech_linux-fundamental-series-1-activity-6959922687263596544-xOfh/)
+- [Linux Episode 3](https://www.linkedin.com/posts/vijayatech_linux-fundamental-series-episode-03-activity-6961186348858847232-riK5/)
+
