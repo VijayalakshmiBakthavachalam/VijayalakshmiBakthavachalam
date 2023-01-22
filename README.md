@@ -19,7 +19,7 @@ I'm **[Vijayalakshmi Bakthavachalam](https://www.linkedin.com/in/vijayatech/)** 
 
 Tech Enthusiast, Content Creator,Blogger,Interested in sharing knowledge with the community and believe in learning/upskilling is a continuous process.
 
-IT professional with more than 10+ years of experience on various roles - 
+IT professional with more than 10+ years of experience on various roles - SRE,Devops Engineer,Release/configuration Manager,Infrastructure Support.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijayatech/)** 
 
