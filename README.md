@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 I'm **[Vijayalakshmi Bakthavachalam](https://www.linkedin.com/in/vijayatech/)** ; but I prefer to go by **Viji**. 
 
-Tech Enthusiast, Content Creator,Blogger,Interested in sharing knowledge with the community and believe in learning/upskilling is a continuous process.
-
-IT professional with more than 10+ years of experience on various roles - SRE,Devops Engineer,Release/configuration Manager,Infrastructure Support.
+Embark on a journey of excellence with me! I am privileged and honoured to be a member of HCLTech Supercharged Ambassadors Club and a core member of Cloudnloud Tech Community. Driven by an unquenchable passion for AI/ML, I am fueled to make a difference. My voice resonates as a speaker, my expertise shines as an organizer, and my commitment shines through in community engagement. Together, let's ignite initiatives that leave a tangible mark, as we forge ahead in the realms of technology and beyond.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijayatech/)** 
 
@@ -87,8 +85,44 @@ s
 - [Linux Episode 2](https://www.linkedin.com/posts/vijayatech_linux-fundamental-series-1-activity-6959922687263596544-xOfh/)
 - [Linux Episode 3](https://www.linkedin.com/posts/vijayatech_linux-fundamental-series-episode-03-activity-6961186348858847232-riK5/)
 
+## ROLE: # COMMUNITY BUILDER - WOMEN IN CLOUD NATIVE
+<p>
+In this role, I am dedicated to fostering a strong and inclusive community for women who are involved or interested in cloud-native technologies. My responsibilities include organizing events, workshops, and networking opportunities that empower women to connect, learn, and excel in the cloud-native field. As a Community Builder, I am committed to creating an environment where women can share their expertise, grow their skills, and inspire each other within the dynamic landscape of cloud-native technology.
+</p>
 
-## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫
+- [Journey to Empowerment](https://www.linkedin.com/feed/update/urn:li:activity:7086599252226834432/)
+- [Community Building Initiatives](https://www.linkedin.com/posts/vijayatech_cfp-for-women-in-cloud-native-events-activity-7095254984019103744-eIE4?utm_source=share&utm_medium=member_desktop/)
+- [Community Promotions](https://www.linkedin.com/posts/vijayatech_kubernetes-101-activity-7086943593088614400-AFMT?utm_source=share&utm_medium=member_desktop/)
+- [Speaker/Sharing Knowledge](https://community.cncf.io/events/details/cncf-women-in-cloud-native-presents-terraform-101/)
+
+## ROLE: # ELASTIC CHENNAI USER GROUP - COMMUNITY ORGANISER
+
+<p>
+I am a community organizer for the Elastic Chennai User Group, which involves facilitating and coordinating activities. As an organizer, my role includes planning events, managing communications, and fostering engagement among members who share an interest in Elastic's products and solutions. Through this position, I work to create a vibrant and collaborative environment where individuals can learn, share knowledge, and network with like-minded professionals in the Chennai area.
+</p>
+
+- [ELASTIC MEETUP-26AUG2023](https://www.linkedin.com/posts/vijayatech_cloudnloud-elastic-meetup-activity-7097194916543426560-ZiwS?utm_source=share&utm_medium=member_desktop/)
+- [ELASTIC MEETUP GRATITUDE -26AUG2023](https://www.linkedin.com/posts/vijayatech_elastic-community-techmeetup-activity-7101817287904559105-noWw?utm_source=share&utm_medium=member_desktop)
+- [ELASTIC MEETUP-3JUNE2023](https://www.linkedin.com/posts/vijayatech_elastic-cloudnloud-meetup-chennai-sat-activity-7066356366436675584-EnuG?utm_source=share&utm_medium=member_desktop)
+- [ELASTIC MEETUP-GRATITUDE-3JUNE2023](https://www.linkedin.com/posts/vijayatech_clounloud-awsdatausergroupbangalore-community-activity-7070837663032901632-exB9?utm_source=share&utm_medium=member_desktop/)
+- [SPEAKER_ELASTICMEETUP_4FEB2023](https://www.linkedin.com/posts/vijayatech_elastic-speaker-cloudnloud-activity-7028213856904613888-gLyq?utm_source=share&utm_medium=member_desktop/)
+
+## ROLE: # AWS COMMUNITY BUILDER
+<p>
+I proudly hold the title of an AWS Community Builder, signifying my involvement in and commitment to the Amazon Web Services (AWS) community. As a Community Builder, I actively engage with fellow AWS enthusiasts and professionals, sharing insights, best practices, and knowledge about AWS services and solutions. My role involves organizing events, webinars, and meetups that facilitate learning, networking, and collaboration within the AWS ecosystem. Through this role, I contribute to the growth and enrichment of the AWS community by fostering connections and enabling individuals to harness the power of cloud computing through AWS technologies.
+</p>
+
+- [TECHIES TALK-8JULY2023](https://www.linkedin.com/posts/vijayatech_techies-talk-episode-3-sat-jul-8-2023-activity-7082360418257563648-tRQQ?utm_source=share&utm_medium=member_desktop/)
+- [TECHIES TALK-13MAY2023](https://www.linkedin.com/posts/vijayatech_github-cloudnloudmeetup-activity-7064334469498908672-nCBN?utm_source=share&utm_medium=member_desktop/)
+
+
+## ROLE: # AICAMP- CHENNAI CHAPTER LEAD
+
+<p>
+I hold the position of the Chennai Chapter Lead for AICamp, an indication that I lead and oversee the activities of the AICamp community in the Chennai region.My objective is to foster a dynamic and supportive environment where individuals interested in AI can come together to learn, share insights, and collaborate. As the Chapter Lead, I play a pivotal role in shaping the local AI community and facilitating knowledge exchange among its members.
+</p>
+
+## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Lead
 
 <P>
 I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
@@ -100,14 +134,6 @@ The goal of our community is to bring together companies, leaders and profession
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
 
 </p>
-
-<div style="display:flex;">
-  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/IMG_3770.CR3.jpg" alt="Image 1" style="width:40%;">
-  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/IMG_3770.CR3.jpg" alt="Image 1" style="width:40%;">
-  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/IMG_3770.CR3.jpg" alt="Image 1" style="width:40%;">
-  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/IMG_3770.CR3.jpg" alt="Image 1" style="width:40%;">
- 
-</div>
 
 # Cloudnloud Community 2022 Free Programs
 
