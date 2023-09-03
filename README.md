@@ -158,13 +158,16 @@ I am a community organizer for the Elastic Chennai User Group, which involves fa
 - [ELASTIC MEETUP-26AUG2023](https://www.linkedin.com/posts/vijayatech_cloudnloud-elastic-meetup-activity-7097194916543426560-ZiwS?utm_source=share&utm_medium=member_desktop/)
 - [ELASTIC MEETUP GRATITUDE -26AUG2023](https://www.linkedin.com/posts/vijayatech_elastic-community-techmeetup-activity-7101817287904559105-noWw?utm_source=share&utm_medium=member_desktop)
   <div style="display:flex;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg" alt="Image 1" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.35%20PM.jpeg" alt="Image 2" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(2).jpeg" alt="Image 3" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-06-29%20at%201.09.13%20PM.jpeg" alt="Image 4" style="width:40%;">
+  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/ELASTIC%20MEETUP%20AUG23/Image1.jpeg" alt="Image 1" style="width:40%;">
+  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/ELASTIC%20MEETUP%20AUG23/Image4.jpeg" alt="Image 3" style="width:40%;">
   </div>
+  
 - [ELASTIC MEETUP-3JUNE2023](https://www.linkedin.com/posts/vijayatech_elastic-cloudnloud-meetup-chennai-sat-activity-7066356366436675584-EnuG?utm_source=share&utm_medium=member_desktop)
 - [ELASTIC MEETUP-GRATITUDE-3JUNE2023](https://www.linkedin.com/posts/vijayatech_clounloud-awsdatausergroupbangalore-community-activity-7070837663032901632-exB9?utm_source=share&utm_medium=member_desktop/)
+  <div style="display:flex;">
+  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/ELASTIC%20MEETUP%20JUN23/Image1.jpeg" alt="Image 1" style="width:40%;">
+  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/ELASTIC%20MEETUP%20JUN23/Image2.jpeg" alt="Image 2" style="width:40%;">
+  </div>
 - [SPEAKER_ELASTICMEETUP_4FEB2023](https://www.linkedin.com/posts/vijayatech_elastic-speaker-cloudnloud-activity-7028213856904613888-gLyq?utm_source=share&utm_medium=member_desktop/)
 
 ## ROLE: # AWS COMMUNITY BUILDER
