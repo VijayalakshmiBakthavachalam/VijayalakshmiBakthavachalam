@@ -1,4 +1,4 @@
-### Hi there 👋
+# 💫 About Me:
 
 <!--
 **VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +26,8 @@ Embark on a journey of excellence with me! I am privileged and honoured to be a 
 - [𝐌𝐲 𝟐𝟎𝟐𝟐 𝐒𝐭𝐨𝐫𝐲](https://www.linkedin.com/posts/vijayatech_hcl-superchargingprogress-2022yearends-activity-7015029992111693825-N_XR) 
 
 
-## Connect with me  
-<a href="https://github.com/vijayatech" target="_blank">
+## 🌐 Socials: 
+<a href="https://github.com/vijayalakshmibakthavachalam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/cloudnloud" target="_blank">
@@ -37,6 +37,54 @@ Embark on a journey of excellence with me! I am privileged and honoured to be a 
 </a>
 
 ---
+ 
+  # 💻 Tech Stack:
+
+## Cloud Services
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg?style=for-the-badge)
+
+## Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+
+## Data Science and AI
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
+## Tools and Platforms
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## Project Management and Collaboration
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Monitoring and Infrastructure
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+
+## Containerization and Operations
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
 
 ## 🤝🏻 Let's Keep in Touch
 
@@ -90,6 +138,9 @@ s
 In this role, I am dedicated to fostering a strong and inclusive community for women who are involved or interested in cloud-native technologies. My responsibilities include organizing events, workshops, and networking opportunities that empower women to connect, learn, and excel in the cloud-native field. As a Community Builder, I am committed to creating an environment where women can share their expertise, grow their skills, and inspire each other within the dynamic landscape of cloud-native technology.
 </p>
 
+<p align="center">
+  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/Womenincloudnative/Screenshot%202023-09-03%20183317.png" ></p>
+
 - [Journey to Empowerment](https://www.linkedin.com/feed/update/urn:li:activity:7086599252226834432/)
 - [Community Building Initiatives](https://www.linkedin.com/posts/vijayatech_cfp-for-women-in-cloud-native-events-activity-7095254984019103744-eIE4?utm_source=share&utm_medium=member_desktop/)
 - [Community Promotions](https://www.linkedin.com/posts/vijayatech_kubernetes-101-activity-7086943593088614400-AFMT?utm_source=share&utm_medium=member_desktop/)
@@ -101,8 +152,17 @@ In this role, I am dedicated to fostering a strong and inclusive community for w
 I am a community organizer for the Elastic Chennai User Group, which involves facilitating and coordinating activities. As an organizer, my role includes planning events, managing communications, and fostering engagement among members who share an interest in Elastic's products and solutions. Through this position, I work to create a vibrant and collaborative environment where individuals can learn, share knowledge, and network with like-minded professionals in the Chennai area.
 </p>
 
+<p align="center">
+  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/Badges/61914376-b6b5-4856-890a-5b613b948db2.png" ></p>
+
 - [ELASTIC MEETUP-26AUG2023](https://www.linkedin.com/posts/vijayatech_cloudnloud-elastic-meetup-activity-7097194916543426560-ZiwS?utm_source=share&utm_medium=member_desktop/)
 - [ELASTIC MEETUP GRATITUDE -26AUG2023](https://www.linkedin.com/posts/vijayatech_elastic-community-techmeetup-activity-7101817287904559105-noWw?utm_source=share&utm_medium=member_desktop)
+  <div style="display:flex;">
+  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg" alt="Image 1" style="width:40%;">
+  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.35%20PM.jpeg" alt="Image 2" style="width:40%;">
+  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(2).jpeg" alt="Image 3" style="width:40%;">
+  <img src="https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-06-29%20at%201.09.13%20PM.jpeg" alt="Image 4" style="width:40%;">
+  </div>
 - [ELASTIC MEETUP-3JUNE2023](https://www.linkedin.com/posts/vijayatech_elastic-cloudnloud-meetup-chennai-sat-activity-7066356366436675584-EnuG?utm_source=share&utm_medium=member_desktop)
 - [ELASTIC MEETUP-GRATITUDE-3JUNE2023](https://www.linkedin.com/posts/vijayatech_clounloud-awsdatausergroupbangalore-community-activity-7070837663032901632-exB9?utm_source=share&utm_medium=member_desktop/)
 - [SPEAKER_ELASTICMEETUP_4FEB2023](https://www.linkedin.com/posts/vijayatech_elastic-speaker-cloudnloud-activity-7028213856904613888-gLyq?utm_source=share&utm_medium=member_desktop/)
