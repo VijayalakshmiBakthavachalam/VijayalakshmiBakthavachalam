@@ -169,6 +169,10 @@ I am a community organizer for the Elastic Chennai User Group, which involves fa
   <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/ELASTIC%20MEETUP%20JUN23/Image2.jpeg" alt="Image 2" style="width:40%;">
   </div>
 - [SPEAKER_ELASTICMEETUP_4FEB2023](https://www.linkedin.com/posts/vijayatech_elastic-speaker-cloudnloud-activity-7028213856904613888-gLyq?utm_source=share&utm_medium=member_desktop/)
+  <div style="display:flex;">
+  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/SPEAKER/Image1.jpeg" alt="Image 1" style="width:40%;">
+  <img src="https://github.com/VijayalakshmiBakthavachalam/VijayalakshmiBakthavachalam/blob/main/Event%20deck/SPEAKER/Image2.jpeg" alt="Image 2" style="width:40%;">
+  </div>
 
 ## ROLE: # AWS COMMUNITY BUILDER
 <p>
